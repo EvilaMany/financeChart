@@ -1,0 +1,27 @@
+{
+  "name": "financechart",
+  "version": "1.0.0",
+  "description": "Js library for draw finance charts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilamany/financeChart.git"
+  },
+  "keywords": [
+    "chart",
+    "trading",
+    "finance"
+  ],
+  "author": "evilamany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evilamany/financeChart/issues"
+  },
+  "homepage": "https://github.com/evilamany/financeChart#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
